@@ -9,6 +9,7 @@ Atualmente estou desenvolvendo um sistema de controle de pedidos utilizando utli
 
 ## Minhas Skills :computer:
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,mysql,postgres,html,css,figma,linux)](https://skillicons.dev)
 Em linguagens de programação: Tenho como principal linguagem o JavaScript, atualmente estou focado em estudar e aprimorar meu TypeScript, além de ter experiência em desenvolvimento web usando Python. <br/>
 Em banco dados : Banco de dados relacionais, como o MySQL e Postgres, além de ter um básico conhecimento em MongoDB  <br/>
 Em web: HTML5 e CSS puros e TailWindCSS como framework de CSS  <br/> 
