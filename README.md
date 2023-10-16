@@ -2,9 +2,6 @@
 #  :boom: Bem-vindo ao meu Github  :boom:
 
 ## Me chamo Erik :shinto_shrine:
-<div align="center">
-  <img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokotaerik&layout=compact&langs_count=7&theme=dark">
-</div>
 
 Sou estudante de DSM na Fatec SJC, já fui aluno de contabilidade na Universidade Federal de Minas Gerais, cursei 1 ano e nesse período trabalhei na Accenture, dentro da empresa eu pude observar um pouco do time tech esse foi um motivador pela escolha da área de tecnologia. Nesse meio tempo entre a desistência de contabilidade e seguir para Fatec, eu cursei 1 ano de Educação Física também na Universidade Federal de Minas Gerais, eu me considerado um completo apaixonado pela área de educação física e tudo que envolve movimento e performance física, mas infelizmente o mercado de trabalho na área não era compatível com as minhas expectativas, resultando assim na minha escolha de cursar Desenvolvimento de Software Multiplataforma.
 
