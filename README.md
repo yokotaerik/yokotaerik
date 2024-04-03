@@ -25,7 +25,7 @@ I'm a DSM student at Fatec SJC, passionate about the tech industry, love to lear
 
 ## My portfolio
 
-[PORTIFOLIO](portifolio-k1mh6wk6c-yokotaeriks-projects.vercel.app)
+[Click here ti visit my portfolio](https://portifolio-seven-gamma-85.vercel.app)
 
 
 ## Contact: 
@@ -60,7 +60,7 @@ Sou estudante de DSM na Fatec SJC, apaixonado pela area tech, amo aprender e me 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nest,next,python,flask,mysql,postgres,html,css,tailwind,figma,linux,java,spring)](https://skillicons.dev) <br/>
 
 ## Meu portifólio
-[PORTIFOLIO](portifolio-k1mh6wk6c-yokotaeriks-projects.vercel.app)
+[Clique aqui para visitar meu portfólio](https://portifolio-seven-gamma-85.vercel.app)
 
 
 
